@@ -45,3 +45,5 @@ $ mvn clean install
 
 
 This test will run in chrome
+
+Note: In macbook the following command may be useful xattr -d com.apple.quarantine chromedriver
